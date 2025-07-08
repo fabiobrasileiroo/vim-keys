@@ -274,6 +274,8 @@ Retirado do Autor: [Blau Araujo](https://codeberg.org/blau_araujo)
 | `\vPADRÃO`                   | Padrão *very magic*: descarta a necessidade de escapar os metacaracteres das expressões regulares. |
 | `n`                          | Localiza o próximo padrão casado. |
 | `N`                          | Localiza o padrão casado anterior. |
+| `#` | Vai para próxima ocorrencia com base na palavra em cima do cursor |
+| `*` | Vai para próxima ocorrencia com base na palavra em cima do cursor |
 | `:s/PADRÃO/SUBSTITUIÇÃO`     | Troca a primeira ocorrência de PADRÃO na linha por SUBSTITUIÇÃO. |
 | `:s/PADRÃO/SUBSTITUIÇÃO/g`   | Troca todas as ocorrências de PADRÃO na linha por SUBSTITUIÇÃO. |
 | `:%s/PADRÃO/SUBSTITUIÇÃO/g`  | Troca PADRÃO por SUBSTITUIÇÃO em todo o documento. |
