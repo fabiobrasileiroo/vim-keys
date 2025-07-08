@@ -2,7 +2,7 @@
 
 Fonte: [Vim Cheat Sheet](https://vim.rtorr.com/lang/pt_br)
 
-Autor: [Blau Araujo](https://codeberg.org/blau_araujo)
+Retirado do Autor: [Blau Araujo](https://codeberg.org/blau_araujo)
 
 ## Comandos globais
 
