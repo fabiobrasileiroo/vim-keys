@@ -43,6 +43,7 @@ Retirado do Autor: [Blau Araujo](https://codeberg.org/blau_araujo)
 | `gg`        | Vai para a primeira linha do texto |
 | `G`         | Vai para a última linha do texto |
 | `Ngg` ou `NG` | Vai para a linha `N` |
+| `#` | Vai para próxima ocorrencia com base na palavra em cima do cursor |
 | `fC`        | Salta para o próximo caractere `C` da linha |
 | `tC`        | Salta para antes do próximo caractere `C` da linha |
 | `FC`        | Salta para o caractere `C` anterior na linha |
